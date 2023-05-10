@@ -18,6 +18,7 @@ body{
     flex-direction: column;
     display: flex;
     background-color: white;
+    box-shadow: 10px 5px 5px gray;
 }
 .d1
 {
@@ -101,7 +102,9 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
+
 }
 .d201
 {
@@ -113,6 +116,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d202
@@ -125,6 +129,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d203
@@ -137,6 +142,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d204
@@ -149,6 +155,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d205
@@ -161,6 +168,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d206
@@ -173,6 +181,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d207
@@ -185,6 +194,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d208
@@ -197,6 +207,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d209
@@ -209,6 +220,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d210
@@ -221,6 +233,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d211
@@ -233,6 +246,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }.d212
 {
@@ -244,6 +258,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d213
@@ -256,6 +271,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d214
@@ -268,6 +284,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d301
@@ -280,6 +297,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d302
@@ -292,6 +310,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d303
@@ -304,6 +323,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d304
@@ -316,6 +336,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d305
@@ -328,6 +349,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d306
@@ -340,6 +362,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d307
@@ -352,6 +375,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d308
@@ -364,6 +388,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d309
@@ -376,6 +401,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d310
@@ -388,6 +414,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d311
@@ -400,6 +427,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }.d312
 {
@@ -411,6 +439,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d313
@@ -423,6 +452,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d314
@@ -435,6 +465,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d401
@@ -447,6 +478,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d402
@@ -459,6 +491,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d403
@@ -471,6 +504,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d404
@@ -483,6 +517,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d405
@@ -495,6 +530,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d406
@@ -507,6 +543,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d407
@@ -519,6 +556,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d408
@@ -531,6 +569,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d409
@@ -543,6 +582,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d410
@@ -555,6 +595,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d411
@@ -567,6 +608,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d412
@@ -579,6 +621,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d413
@@ -591,6 +634,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d501
@@ -603,6 +647,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d502
@@ -615,6 +660,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d503
@@ -627,6 +673,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d504
@@ -639,6 +686,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d505
@@ -651,6 +699,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d506
@@ -663,6 +712,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d507
@@ -675,6 +725,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d508
@@ -687,6 +738,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d509
@@ -699,6 +751,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d510
@@ -711,6 +764,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d511
@@ -723,6 +777,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
     .d512
@@ -736,6 +791,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d601
@@ -748,6 +804,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d602
@@ -760,6 +817,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d603
@@ -772,6 +830,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d604
@@ -784,6 +843,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d605
@@ -796,6 +856,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d7
@@ -821,6 +882,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d9
@@ -846,6 +908,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d11
@@ -858,6 +921,7 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
 .d12
@@ -870,5 +934,6 @@ body{
     align-content: center;
     align-items: center;
     background-color: lightcoral;
+    box-shadow: 10px 5px 5px gray;
     border: 2px solid black;border-radius: 5px;
 }
