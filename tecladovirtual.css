@@ -1,0 +1,874 @@
+body{
+    height: 95vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+.d0
+{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+    display: flex;
+    background-color: white;
+}
+.d1
+{
+    width: 100%;
+    height: 8%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+
+}
+.d2
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+}
+.d3{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+}
+.d4
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+}
+.d5
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+}
+.d6
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+}
+.d101
+{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d201
+{
+    width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d202
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d203
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d204
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d205
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d206
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d207
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d208
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d209
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d210
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d211
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}.d212
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d213
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d214
+{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d301
+{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d302
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d303
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d304
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d305
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d306
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d307
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d308
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d309
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d310
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d311
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}.d312
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d313
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d314
+{
+   width: 6%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d401
+{
+    width: 9%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d402
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d403
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d404
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d405
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d406
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d407
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d408
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d409
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d410
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d411
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d412
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d413
+{
+    width: 9%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d501
+{
+    width: 9%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d502
+{
+    width: 7%;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d503
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d504
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d505
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d506
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d507
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d508
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d509
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d510
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d511
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+    .d512
+
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d601
+{
+    width: 12%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d602
+{
+    width: 12%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d603
+{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d604
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d605
+{
+    width: 7%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d7
+{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: row;
+    display: flex;
+    
+}
+.d8
+{
+    width: 30%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d9
+{
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+    display: flex;
+   
+}
+.d10
+{
+    width: 30%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d11
+{
+    width: 100%;
+    height: 45%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
+.d12
+{
+    width: 100%;
+    height: 45%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 2px solid black;border-radius: 5px;
+}
